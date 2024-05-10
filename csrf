@@ -1,6 +1,6 @@
 <html>
  <body>
-  <form action="https://message.uqcloud.net/leaderboard.php" method="POST">
+  <form method="POST">
    <p>
     Your name <input name=“name” value="s4497824" />
    </p>
