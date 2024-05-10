@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
  <body>
   <form action="https://message.uqcloud.net/leaderboard.php" method="POST">
