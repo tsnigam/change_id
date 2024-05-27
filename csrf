@@ -2,7 +2,7 @@
  <body>
   <form method="POST">
    <p>
-    Your name <input name=“name” value="s4497824" />
+    Your name <input name=“name” value="example_id#" />
    </p>
    <body onload="document.forms[0].submit()">
   </form>
